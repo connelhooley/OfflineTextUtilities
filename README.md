@@ -1,4 +1,4 @@
-# OfflineTextUtilities
+# Offline Text Utilities
 The application runs entirely locally so you can safely enter code snippets into the application.
 
 ## Decode Base64
