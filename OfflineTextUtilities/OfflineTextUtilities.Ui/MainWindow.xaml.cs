@@ -2,7 +2,7 @@
 using System;
 using System.Windows;
 
-namespace OfflineTextUtilities.Ui
+namespace ConnelHooley.OfflineTextUtilities.Ui
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
