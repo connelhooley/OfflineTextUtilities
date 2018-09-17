@@ -1,5 +1,5 @@
 # Offline Text Utilities
-The application runs entirely locally so you can safely enter code snippets into the application.
+The application runs locally so you can enter code snippets into it that you may not want to upload online.
 
 ## Decode Base64
 ![Screenshot demonstrating decoding Base64](Base64-Decode.png "Screenshot")
